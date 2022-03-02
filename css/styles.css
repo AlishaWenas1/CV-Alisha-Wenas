@@ -1,7 +1,7 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel&family=Raleway&family=Roboto+Slab:wght@500&display=swap');
 /* Styles for the body */
 
 body {
@@ -14,7 +14,7 @@ body {
 .resume-header {
     background-color: #F2F37A;
 	color: #870369;
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Martel', serif;
 }
 
 .resume-main {
